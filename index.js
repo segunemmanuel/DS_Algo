@@ -49,4 +49,12 @@ function anotherFunChallenge(input) {
   let whoAmI = "I don't know"; //O(1)
 }
 
-// Big O= 4+5n
+// Big O= 4+5n or O(n);
+
+
+
+// Rules of Big O
+// Worst case
+//Remove constants
+// Different terms for input
+// Drop non dominants
